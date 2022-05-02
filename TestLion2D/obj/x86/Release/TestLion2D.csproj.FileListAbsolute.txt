@@ -1,0 +1,10 @@
+C:\Users\Dylan\Documents\Code\C#\DylanCheetah\Lion2D\TestLion2D\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Dylan\Documents\Code\C#\DylanCheetah\Lion2D\TestLion2D\obj\x86\Release\TestLion2D.Properties.Resources.resources
+C:\Users\Dylan\Documents\Code\C#\DylanCheetah\Lion2D\TestLion2D\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Dylan\Documents\Code\C#\DylanCheetah\Lion2D\TestLion2D\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Dylan\Documents\Code\C#\DylanCheetah\Lion2D\TestLion2D\bin\Release\TestLion2D.exe
+C:\Users\Dylan\Documents\Code\C#\DylanCheetah\Lion2D\TestLion2D\bin\Release\TestLion2D.pdb
+C:\Users\Dylan\Documents\Code\C#\DylanCheetah\Lion2D\TestLion2D\bin\Release\Lion2D.dll
+C:\Users\Dylan\Documents\Code\C#\DylanCheetah\Lion2D\TestLion2D\bin\Release\Lion2D.pdb
+C:\Users\Dylan\Documents\Code\C#\DylanCheetah\Lion2D\TestLion2D\obj\x86\Release\TestLion2D.exe
+C:\Users\Dylan\Documents\Code\C#\DylanCheetah\Lion2D\TestLion2D\obj\x86\Release\TestLion2D.pdb
