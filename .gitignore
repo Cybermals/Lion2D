@@ -1,7 +1,8 @@
 # Build Folders
+Lion2D/bin/**
 Lion2D/obj/**
+TestLion2D/bin/**
 TestLion2D/obj/**
-bin/**
 
 # Binary Files
 *.dll

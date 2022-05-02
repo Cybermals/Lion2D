@@ -1,5 +1,0 @@
-C:\Users\Dylan\Documents\Code\C#\DylanCheetah\Lion2D\Lion2D\obj\Release\ResolveAssemblyReference.cache
-C:\Users\Dylan\Documents\Code\C#\DylanCheetah\Lion2D\Lion2D\bin\Release\Lion2D.dll
-C:\Users\Dylan\Documents\Code\C#\DylanCheetah\Lion2D\Lion2D\bin\Release\Lion2D.pdb
-C:\Users\Dylan\Documents\Code\C#\DylanCheetah\Lion2D\Lion2D\obj\Release\Lion2D.dll
-C:\Users\Dylan\Documents\Code\C#\DylanCheetah\Lion2D\Lion2D\obj\Release\Lion2D.pdb
